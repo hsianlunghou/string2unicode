@@ -25,7 +25,7 @@ This project automates the conversion process through a simple GUI, reducing man
   - Unicode escape format (`\u4e2d`)
   - U8G2 hexadecimal format (`$4e2d`)
 - Separated the output by comma for easy copy
-- 
+
 ## Example
 
 ### Input
