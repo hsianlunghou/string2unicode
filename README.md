@@ -29,3 +29,16 @@ This project automates the conversion process through a simple GUI, reducing man
 ## Example
 
 ### Input
+中,文,測,試
+
+
+### Unicode Output
+
+
+\u4e2d,\u6587,\u6e2c,\u8a66中,文,測,試
+
+
+### Unicode Output
+
+
+\u4e2d,\u6587,\u6e2c,\u8a66
