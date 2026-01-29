@@ -31,10 +31,12 @@ This project automates the conversion process through a simple GUI, reducing man
 ### Input
 ```shell
 中,文,測,試
+```
 
 ### Output
 ```shell
 \u4e2d,\u6587,\u6e2c,\u8a66
+```
 
 ## Requirements
 
@@ -46,7 +48,8 @@ This project automates the conversion process through a simple GUI, reducing man
 1. Clone this repository:
    ```bash
    git clone https://github.com/Jaigeng/string2unicode.git
-
+   ```
 2. Run the program:
     ```bash
     python string2unicode.py
+    ```
